@@ -1,0 +1,22 @@
+site_name: Rafikey User Guide
+site_url: https://mamatechafrica.github.io/rafikey-user-guide
+repo_url: https://github.com/mamatechafrica/rafikey-user-guide
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+nav:
+  - Welcome: index.md
+  - Account Setup: account-setup.md
+  - Admin Dashboard: admin-dashboard.md
+  - App Use: app-use.md
+  - Landing Page: landing-page.md
+  - Feature Tutorials: feature-tutorials.md
+  - Best Practices: best-practices.md
+  - FAQs: faqs.md
+  - Troubleshooting: troubleshooting.md
+  - Updates & Feedback: updates-feedback.md
+  - Appendix: appendix.md
