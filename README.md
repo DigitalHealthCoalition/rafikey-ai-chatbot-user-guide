@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the GitHub Actions + Render CI/CD pipeline used for deploying and testing the **Rafikey AI Platform**, including both **staging** and **production** environments.
+This document outlines the GitHub Actions + Render CI/CD pipeline used for deploying and testing the **Rafikey SRHR AI Platform**, including both **staging** and **production** environments.
 
 ---
 
