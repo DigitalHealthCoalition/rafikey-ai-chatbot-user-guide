@@ -110,4 +110,4 @@ This CI/CD pipeline ensures:
 
 ---
 
-_This document is maintained by the Rafikey DevOps team_ 🔧🤖
+_This document is maintained by the Mama Tech team_ 🔧🤖
